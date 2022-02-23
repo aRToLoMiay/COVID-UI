@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Visual Studio types
-.pyproj
+.vs
+*.pyproj
