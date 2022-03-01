@@ -57,7 +57,7 @@ def read_params():
     return L, K, R,startX, n
 
 
-def convert_str(str, delim=';'):
+def convert_str(str, delim=' '):
     """
     Конвертация строки параметров в массив float.
 
