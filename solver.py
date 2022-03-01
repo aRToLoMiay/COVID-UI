@@ -1,5 +1,8 @@
 import numpy as np
 
+from input import *
+from output import *
+
 
 def multisolver(L, K, R, startX, n):
     """
